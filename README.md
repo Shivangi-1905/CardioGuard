@@ -17,6 +17,8 @@ CardioGuard is a machine learning web application that explores heart disease cl
 - Streamlit
 - Joblib
 
+## Live Demo - https://cardioguard-4jpsj57qcuzhayhdiqhu6c.streamlit.app/
+
 ## Dataset
 Heart Disease Dataset by johnsmith88 on Kaggle:
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
